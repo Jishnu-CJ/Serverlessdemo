@@ -17,4 +17,4 @@ Here using we are using an image resizing action while we exporting an image to 
 
 ## Screenshots
 
-<img src=""
+<img src="Arch_serverless.png">
